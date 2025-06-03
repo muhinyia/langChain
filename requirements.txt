@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-core
+openai
+
+huggingface
+
+pandas
+python-dotenv
+numpy
