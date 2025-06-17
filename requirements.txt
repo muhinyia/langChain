@@ -2,9 +2,11 @@ langchain
 langchain-community
 langchain-core
 openai
-
+langchain-openai
 huggingface
 
 pandas
 python-dotenv
 numpy
+
+streamlit
