@@ -4,9 +4,13 @@ langchain-core
 openai
 langchain-openai
 huggingface
-
+chromadb
 pandas
 python-dotenv
 numpy
-
+langchain-groq
 streamlit
+PyPDF2
+faiss-cpu
+InstructorEmbedding
+sentence-transformers
